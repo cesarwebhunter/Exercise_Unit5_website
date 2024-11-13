@@ -11,3 +11,7 @@ body{
     margin-left: 20%;
     margin-right: 20%;
 }
+#dog{
+    display: flex;
+    justify-content: center;
+}
